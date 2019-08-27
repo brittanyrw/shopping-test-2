@@ -1,6 +1,6 @@
 {
   "nodes":[
-		{"name":"lin","group":"lion king"},
+		{"name":"lin","group":["lion king","rent"]},
 		{"name":"christopher","group":"lion king"},
 		{"name":"leslie","group":"rent"},
 		{"name":"renee","group":"lion king"}
