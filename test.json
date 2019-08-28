@@ -5,6 +5,6 @@
     {"id": "Oak", "group": 1},
   ],
   "links": [
-    {"source": "Lin", "target": "Christopher", "value": 'in the heights'}
+    {"source": "Lin", "target": "Christopher", "value": 1}
   ]
 }
